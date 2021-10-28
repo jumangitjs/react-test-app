@@ -1,0 +1,30 @@
+.MuiCard-root {
+  height: 50vh;
+  width: 30vw;
+}
+
+.header {
+  margin-bottom: 32px;
+}
+
+.header > span {
+  font-weight: bold;
+  font-size: large;
+}
+
+.MuiGrid-container {
+  height: 100%;
+}
+
+.MuiCardContent-root {
+  height: 100%;
+}
+
+.items {
+  margin-top: 32px;
+  margin-bottom: auto;
+}
+
+.items > span {
+  padding-bottom: 12px;
+}
